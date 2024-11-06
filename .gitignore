@@ -74,3 +74,11 @@ Pipfile.lock
 
 # Other system files
 *.orig
+
+# Ignore virtual environment directories
+venv/
+lib/
+lib64
+env/
+bin/
+pyvenv.cfg
